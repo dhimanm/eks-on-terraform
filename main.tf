@@ -1,4 +1,3 @@
-# This is main branch.
 # Mukesh 1st Terra EKS Cluster
 
 resource "aws_eks_cluster" "mukesh-eks" {
