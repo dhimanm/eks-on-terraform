@@ -13,3 +13,5 @@ terraform {
 provider "aws" {
   region = var.aws_region
 }
+
+# We should change this version to latest.
